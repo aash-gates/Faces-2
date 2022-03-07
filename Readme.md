@@ -34,3 +34,4 @@ All the Images in this Repo are Downloaded from https://thispersondoesnotexist.c
 ![Batch9](https://github.com/aash-gates/Faces-2/blob/main/Under%20the%20Hood/Batch%209.png) 
 
 ### Batch 10
+![Batch10](https://github.com/aash-gates/Faces-2/blob/main/Under%20the%20Hood/Batch%2010.png)
